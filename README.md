@@ -1,48 +1,51 @@
 # 👋 Hi, I'm Osama Eladawy
 
-### Senior Flutter & Mobile Application Developer
+### Mid-Level Flutter & Mobile Application Developer
 
-I build **scalable, production-ready mobile applications** with Flutter & Dart, with a strong focus on **clean architecture, maintainability, performance, and real-world product development**.
+I build **modern, scalable, and production-ready mobile applications** using Flutter & Dart, with a strong focus on **clean architecture, maintainable code, performance, and great user experiences**.
 
-I enjoy turning complex business requirements into reliable, intuitive, and high-quality mobile experiences.
+I enjoy transforming ideas and business requirements into reliable mobile products with clean, reusable, and scalable solutions.
 
 ---
 
 ## 🚀 About Me
 
-* 📱 Senior Mobile Developer specialized in **Flutter & Dart**
-* 🏗️ Experienced in **Clean Architecture, BLoC/Cubit, and scalable app architecture**
-* 🔌 Strong experience with **REST APIs, Dio, WebSockets & real-time applications**
-* 🔥 Experienced with **Firebase, Push Notifications, Remote Config & Analytics**
-* 🗺️ Experience building **location-based and ride-hailing applications**
-* 🔐 Familiar with **secure storage, authentication, token management & API security**
-* 🍎 Experience with **Android & iOS deployment and App Store / Play Store releases**
-* ⚡ Focused on **performance, clean code, reusable components & maintainable systems**
-* 🤝 Comfortable working with **Git, GitHub, CI/CD and collaborative development**
+* 📱 Mobile Developer specialized in **Flutter & Dart**
+* 🏗️ Experienced in **Clean Architecture, BLoC/Cubit, and scalable application structure**
+* 🔌 Building and integrating **REST APIs using Dio**
+* ⚡ Working with **real-time communication and WebSockets**
+* 🔥 Experienced with **Firebase services and push notifications**
+* 🗺️ Building **location-based and map-driven applications**
+* 🔐 Implementing **authentication, secure storage, and token management**
+* 🍎 Working with **Android & iOS development and deployment**
+* 🎨 Turning Figma designs into **responsive and pixel-aware Flutter interfaces**
+* 🧩 Focused on **reusable components, clean code, and maintainable features**
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Core Skills
 
 <table>
 <tr>
 <td width="50%">
 
-### 📱 Mobile Development
+### 📱 Flutter Development
 
 * Flutter
 * Dart
-* Android
-* iOS
 * Responsive UI
-* Custom Animations
-* Localization & RTL
+* Custom Widgets
+* Animations
+* Localization
+* RTL Support
 * Performance Optimization
+* Android & iOS
 
 </td>
+
 <td width="50%">
 
-### 🏗️ Architecture
+### 🏗️ Architecture & State
 
 * Clean Architecture
 * SOLID Principles
@@ -50,7 +53,8 @@ I enjoy turning complex business requirements into reliable, intuitive, and high
 * Repository Pattern
 * Dependency Injection
 * Feature-based Architecture
-* Scalable Codebases
+* Equatable
+* GetIt
 
 </td>
 </tr>
@@ -58,29 +62,61 @@ I enjoy turning complex business requirements into reliable, intuitive, and high
 <tr>
 <td width="50%">
 
-### 🌐 Backend & Realtime
+### 🌐 APIs & Realtime
 
 * REST APIs
 * Dio
 * WebSockets
-* Laravel APIs
-* Firebase
-* Push Notifications
-* Real-time Tracking
+* Real-time Data
+* Authentication
+* Token Refresh
+* API Error Handling
+* JSON Serialization
 
 </td>
+
 <td width="50%">
 
-### 🛠️ Engineering
+### 🔥 Firebase & Services
 
-* Git & GitHub
-* CI/CD
+* Firebase Authentication
+* Firebase Cloud Messaging
+* Firebase Analytics
+* Firebase Remote Config
+* Push Notifications
+* Secure Storage
+* App Configuration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗺️ Maps & Location
+
+* Google Maps
+* Location Services
+* Geolocation
+* Routes & Directions
+* Real-time Location Tracking
+* Ride & Delivery Flows
+
+</td>
+
+<td width="50%">
+
+### 🛠️ Development Tools
+
+* Git
+* GitHub
+* GitHub Actions
 * Shorebird
-* Firebase
+* Postman
 * Figma
-* Debugging
-* Code Review
-* App Deployment
+* Android Studio
+* Xcode
+* VS Code
 
 </td>
 </tr>
@@ -95,66 +131,118 @@ I enjoy turning complex business requirements into reliable, intuitive, and high
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
 
-### Frameworks & State Management
+### Flutter & State Management
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square\&logo=flutter\&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+![GetIt](https://img.shields.io/badge/GetIt-02569B?style=flat-square\&logo=flutter\&logoColor=white)
 
-### Backend & Data
+### Networking & Data
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
 ![Dio](https://img.shields.io/badge/Dio-0052CC?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FFB300?style=flat-square)
 
-### Tools & Platforms
+### Firebase
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+![Analytics](https://img.shields.io/badge/Analytics-FFCA28?style=flat-square\&logo=googleanalytics\&logoColor=black)
+
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
 
 ---
 
-## 🏗️ What I Build
+## 📱 What I Build
+
+<div align="center">
+
+### 🚗 Ride-Hailing & Transportation
+
+Real-time ride flows, driver offers, negotiation systems, live tracking, location updates, and trip management.
+
+### 🛒 E-Commerce & Marketplace
+
+Product browsing, cart systems, checkout flows, authentication, notifications, and API-driven experiences.
+
+### 📍 Location-Based Applications
+
+Maps, geolocation, routes, directions, nearby services, and real-time location tracking.
+
+### 🔔 Real-Time Applications
+
+WebSocket-based communication, live updates, notifications, and event-driven mobile experiences.
+
+</div>
+
+---
+
+## 🏗️ Development Approach
 
 ```text
-📱 Cross-Platform Mobile Applications
+Business Requirements
         │
-        ├── 🛒 E-Commerce
-        ├── 🚗 Ride-Hailing & Transportation
-        ├── 📍 Location-Based Applications
-        ├── 💬 Real-Time Applications
-        ├── 🔔 Notification Systems
-        └── 🔐 Authentication & Secure Applications
+        ▼
+Feature-Based Architecture
+        │
+        ▼
+Clean Architecture
+        │
+        ├── Domain
+        ├── Data
+        └── Presentation
+        │
+        ▼
+BLoC / Cubit State Management
+        │
+        ▼
+Repository + API Layer
+        │
+        ▼
+Reusable & Testable Features
+        │
+        ▼
+Production-Ready Application
 ```
 
 ---
 
-## ⭐ Engineering Principles
+## ⭐ What I Care About
 
 ```text
-Clean Code
-     ↓
-SOLID Principles
-     ↓
-Clean Architecture
-     ↓
-Testable & Maintainable Features
-     ↓
-Scalable Production Applications
+                    ┌─────────────────────┐
+                    │   Great Mobile App  │
+                    └──────────┬──────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             │                 │                 │
+             ▼                 ▼                 ▼
+        Clean Code       Performance       User Experience
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               │
+                               ▼
+                     Maintainable & Scalable
+                           Applications
 ```
 
-I believe a good mobile application is not only about how it looks —
-it's about **how well it performs, scales, and can be maintained over time.**
+I believe good mobile development is about more than building screens.
+
+It's about creating applications that are:
+
+**Clean • Reliable • Performant • Scalable • Maintainable**
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -176,7 +264,7 @@ it's about **how well it performs, scales, and can be maintained over time.**
 
 ## 🤝 Let's Connect
 
-<p align="left">
+<div align="left">
 
 <a href="mailto:classcar200@gmail.com">
 <img src="https://img.shields.io/badge/Email-classcar200%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -186,14 +274,14 @@ it's about **how well it performs, scales, and can be maintained over time.**
 <img src="https://img.shields.io/badge/LinkedIn-Osama%20Eladawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 Building mobile experiences that scale.
+### 💙 Building clean and scalable mobile experiences with Flutter.
 
-**Flutter • Dart • Clean Architecture • Mobile Engineering**
+**Flutter • Dart • Mobile Engineering • Clean Architecture**
 
 </div>
