@@ -25,7 +25,7 @@
   <a href="https://github.com/osamaEladawy">
     <img src="https://img.shields.io/badge/GitHub-osamaEladawy-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/osama-eladawy">
+  <a href="https://www.linkedin.com/in/osama-eladawy-a786b7272">
     <img src="https://img.shields.io/badge/LinkedIn-Osama%20Eladawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -438,7 +438,7 @@ I'm continuously improving my skills in:
     <img src="https://img.shields.io/badge/GitHub-osamaEladawy-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/osama-eladawy">
+  <a href="https://www.linkedin.com/in/osama-eladawy-a786b7272">
     <img src="https://img.shields.io/badge/LinkedIn-Osama%20Eladawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -455,5 +455,8 @@ I'm continuously improving my skills in:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer"
+    width="100%"
+  />
 </p>
