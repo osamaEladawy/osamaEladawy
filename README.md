@@ -1,83 +1,211 @@
-# 👋 Hi, I'm Osama Eladawy
+<!-- ===================================================== -->
 
-### Mid-Level Flutter & Mobile Application Developer
+<!--                    PROFILE BANNER                     -->
 
-I build **modern, scalable, and production-ready mobile applications** using Flutter & Dart, with a strong focus on **clean architecture, maintainable code, performance, and great user experiences**.
+<!-- ===================================================== -->
 
-I enjoy transforming ideas and business requirements into reliable mobile products with clean, reusable, and scalable solutions.
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=230&section=header&text=Osama%20Eladawy&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mid-Level%20Flutter%20%26%20Mobile%20Application%20Developer&descAlignY=60&descSize=18"
+    width="100%"
+  />
+</p>
+
+<h1 align="center">👋 Hi, I'm Osama Eladawy</h1>
+
+<p align="center">
+  <strong>Mid-Level Flutter & Mobile Application Developer</strong>
+</p>
+
+<p align="center">
+  Building scalable, maintainable, and production-ready mobile applications with Flutter & Dart.
+</p>
+
+<p align="center">
+  <a href="https://github.com/osamaEladawy">
+    <img src="https://img.shields.io/badge/GitHub-osamaEladawy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/osama-eladawy">
+    <img src="https://img.shields.io/badge/LinkedIn-Osama%20Eladawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 📱 Mobile Developer specialized in **Flutter & Dart**
-* 🏗️ Experienced in **Clean Architecture, BLoC/Cubit, and scalable application structure**
-* 🔌 Building and integrating **REST APIs using Dio**
-* ⚡ Working with **real-time communication and WebSockets**
-* 🔥 Experienced with **Firebase services and push notifications**
-* 🗺️ Building **location-based and map-driven applications**
-* 🔐 Implementing **authentication, secure storage, and token management**
-* 🍎 Working with **Android & iOS development and deployment**
-* 🎨 Turning Figma designs into **responsive and pixel-aware Flutter interfaces**
-* 🧩 Focused on **reusable components, clean code, and maintainable features**
+I'm a **Flutter & Dart developer** focused on building reliable, scalable, and production-ready mobile applications.
+
+I enjoy transforming complex business requirements into clean, reusable, and maintainable mobile features.
+
+My development approach combines:
+
+* 📱 Modern Flutter & Dart development
+* 🏗️ Clean Architecture & SOLID principles
+* ⚡ BLoC / Cubit state management
+* 🔌 REST APIs & real-time communication
+* 🔥 Firebase services & push notifications
+* 🗺️ Maps, geolocation & real-time tracking
+* 🔐 Authentication & secure data management
+* 🎨 Responsive and pixel-aware UI implementation
+* 🚀 Android & iOS development and deployment
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Engineering Mindset
 
-<table>
-<tr>
-<td width="50%">
+I believe a production application should be designed for more than just the first release.
 
-### 📱 Flutter Development
+It should be:
 
-* Flutter
-* Dart
-* Responsive UI
-* Custom Widgets
-* Animations
-* Localization
-* RTL Support
-* Performance Optimization
-* Android & iOS
+```text
+                    ┌─────────────────────────┐
+                    │     Production App      │
+                    └────────────┬────────────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+              ▼                  ▼                  ▼
+         Clean Code        Performance          UX / UI
+              │                  │                  │
+              └──────────────────┼──────────────────┘
+                                 │
+                                 ▼
+                      Scalable Architecture
+                                 │
+                                 ▼
+                     Maintainable Product
+```
 
-</td>
+**Clean • Reliable • Performant • Scalable • Maintainable**
 
-<td width="50%">
+---
 
-### 🏗️ Architecture & State
+## 🏗️ Architecture & State Management
+
+### Architecture
 
 * Clean Architecture
+* Feature-based Architecture
 * SOLID Principles
-* BLoC / Cubit
 * Repository Pattern
 * Dependency Injection
-* Feature-based Architecture
+* Separation of Concerns
+* Reusable Components
+
+### State Management
+
+* BLoC
+* Cubit
 * Equatable
+* Immutable State
+* Reactive UI
+* Async / Request State Management
+
+### Dependency Injection
+
 * GetIt
+* Service Locator
+* Low-coupled Feature Dependencies
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+## 📱 Flutter Development
 
-### 🌐 APIs & Realtime
+| Area                 | Experience                                    |
+| -------------------- | --------------------------------------------- |
+| **UI Development**   | Responsive & reusable Flutter widgets         |
+| **State Management** | BLoC / Cubit                                  |
+| **Architecture**     | Clean Architecture                            |
+| **Localization**     | Multi-language & RTL                          |
+| **Animations**       | Custom & implicit animations                  |
+| **Performance**      | Efficient state updates & widget optimization |
+| **Forms**            | Validation & reusable form components         |
+| **Navigation**       | Structured application navigation             |
+| **Platforms**        | Android & iOS                                 |
+
+---
+
+## 🌐 APIs & Real-Time Communication
+
+Experienced in building applications that communicate with backend services through:
 
 * REST APIs
 * Dio
-* WebSockets
-* Real-time Data
-* Authentication
-* Token Refresh
-* API Error Handling
 * JSON Serialization
+* API Error Handling
+* Authentication
+* Access / Refresh Tokens
+* Token Refresh
+* Request Interceptors
+* WebSockets
+* Real-Time Events
+* Live Application Updates
 
-</td>
+### ⚡ Real-Time Architecture
 
-<td width="50%">
+```text
+                    Mobile Application
+                           │
+                           ▼
+                  Realtime / WebSocket
+                           │
+                           ▼
+                    Backend Events
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+      Ride Status       Offers         Live Location
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                    Reactive UI Update
+```
 
-### 🔥 Firebase & Services
+---
+
+## 🗺️ Maps & Location
+
+I've worked on mobile applications where location is a core part of the product experience.
+
+### Capabilities
+
+* Google Maps
+* Geolocation
+* Location Permissions
+* Routes & Directions
+* Distance Calculations
+* Nearby Services
+* Real-Time Location Tracking
+* Driver Tracking
+* Ride & Delivery Flows
+
+### 🚗 Example Ride Flow
+
+```text
+Booking
+   ↓
+Request Created
+   ↓
+Searching
+   ↓
+Driver Offers
+   ↓
+Offer Accepted
+   ↓
+Driver Tracking
+   ↓
+Trip Started
+   ↓
+Trip Completed
+   ↓
+Rating
+```
+
+---
+
+## 🔥 Firebase & Mobile Services
 
 * Firebase Authentication
 * Firebase Cloud Messaging
@@ -85,203 +213,247 @@ I enjoy transforming ideas and business requirements into reliable mobile produc
 * Firebase Remote Config
 * Push Notifications
 * Secure Storage
-* App Configuration
+* Application Configuration
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗺️ Maps & Location
-
-* Google Maps
-* Location Services
-* Geolocation
-* Routes & Directions
-* Real-time Location Tracking
-* Ride & Delivery Flows
-
-</td>
-
-<td width="50%">
-
-### 🛠️ Development Tools
-
-* Git
-* GitHub
-* GitHub Actions
-* Shorebird
-* Postman
-* Figma
-* Android Studio
-* Xcode
-* VS Code
-
-</td>
-</tr>
-</table>
+I use Firebase services where they provide practical solutions for authentication, messaging, analytics, configuration, and mobile infrastructure.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💙 Flutter & Dart
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+</p>
 
-### Flutter & State Management
+### 🏗️ Architecture & State
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![GetIt](https://img.shields.io/badge/GetIt-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cubit-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetIt-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Equatable-02569B?style=flat-square" />
+</p>
 
-### Networking & Data
+### 🌐 Networking & Data
 
-![Dio](https://img.shields.io/badge/Dio-0052CC?style=flat-square)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFB300?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Dio-0052CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-FFB300?style=flat-square" />
+</p>
 
-### Firebase
+### 🔥 Firebase
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Analytics](https://img.shields.io/badge/Analytics-FFCA28?style=flat-square\&logo=googleanalytics\&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Analytics-FFCA28?style=flat-square&logo=googleanalytics&logoColor=black" />
+  <img src="https://img.shields.io/badge/Remote_Config-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
 
-### Tools
+### 🗺️ Maps & Location
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Geolocation-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Real--Time_Tracking-02569B?style=flat-square" />
+</p>
+
+### 🛠️ Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shorebird-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-## 📱 What I Build
-
-<div align="center">
+## 📦 What I Build
 
 ### 🚗 Ride-Hailing & Transportation
 
-Real-time ride flows, driver offers, negotiation systems, live tracking, location updates, and trip management.
+Real-time mobile experiences involving:
+
+* Ride booking
+* Driver discovery
+* Price negotiation
+* Driver offers
+* Live tracking
+* Trip status
+* Notifications
+* Rating & completion flows
 
 ### 🛒 E-Commerce & Marketplace
 
-Product browsing, cart systems, checkout flows, authentication, notifications, and API-driven experiences.
+* Product browsing
+* Categories
+* Cart management
+* Checkout
+* Authentication
+* Orders
+* Notifications
+* Backend-driven experiences
 
 ### 📍 Location-Based Applications
 
-Maps, geolocation, routes, directions, nearby services, and real-time location tracking.
+* Maps
+* Geolocation
+* Routes
+* Directions
+* Nearby services
+* Live location tracking
 
 ### 🔔 Real-Time Applications
 
-WebSocket-based communication, live updates, notifications, and event-driven mobile experiences.
-
-</div>
+* WebSockets
+* Live events
+* Real-time status updates
+* Notifications
+* Event-driven mobile experiences
 
 ---
 
-## 🏗️ Development Approach
+## 🏛️ Development Architecture
+
+```text
+                         Flutter Application
+                                  │
+                                  ▼
+                     ┌────────────────────────┐
+                     │     Presentation       │
+                     │                        │
+                     │  Screens / Widgets     │
+                     │  BLoC / Cubit          │
+                     │  UI State              │
+                     └────────────┬───────────┘
+                                  │
+                                  ▼
+                     ┌────────────────────────┐
+                     │        Domain          │
+                     │                        │
+                     │  Entities              │
+                     │  Use Cases             │
+                     │  Repository Contracts  │
+                     └────────────┬───────────┘
+                                  │
+                                  ▼
+                     ┌────────────────────────┐
+                     │         Data           │
+                     │                        │
+                     │  API                   │
+                     │  Models                │
+                     │  Repository Impl       │
+                     │  Data Sources          │
+                     └────────────┬───────────┘
+                                  │
+                                  ▼
+                         Backend / Services
+```
+
+This approach helps keep features **independent, testable, reusable, and easier to maintain** as the application grows.
+
+---
+
+## 🚀 Development Workflow
 
 ```text
 Business Requirements
-        │
-        ▼
-Feature-Based Architecture
-        │
-        ▼
-Clean Architecture
-        │
-        ├── Domain
-        ├── Data
-        └── Presentation
-        │
-        ▼
-BLoC / Cubit State Management
-        │
-        ▼
-Repository + API Layer
-        │
-        ▼
-Reusable & Testable Features
-        │
-        ▼
-Production-Ready Application
+          ↓
+Feature Planning
+          ↓
+UI / UX Implementation
+          ↓
+Domain & Data Design
+          ↓
+API Integration
+          ↓
+State Management
+          ↓
+Testing & Debugging
+          ↓
+Performance Optimization
+          ↓
+Android / iOS Release
 ```
-
----
-
-## ⭐ What I Care About
-
-```text
-                    ┌─────────────────────┐
-                    │   Great Mobile App  │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-        Clean Code       Performance       User Experience
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               │
-                               ▼
-                     Maintainable & Scalable
-                           Applications
-```
-
-I believe good mobile development is about more than building screens.
-
-It's about creating applications that are:
-
-**Clean • Reliable • Performant • Scalable • Maintainable**
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=osamaEladawy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaEladawy&layout=compact&hide_border=true"
+    height="170"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=osamaEladawy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=osamaEladawy&hide_border=true"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaEladawy&layout=compact&hide_border=true&langs_count=8" width="48%" />
+---
 
-</div>
+## 📈 Currently Focused On
 
-<br/>
+```text
+Flutter
+   +
+Clean Architecture
+   +
+Real-Time Systems
+   +
+Maps & Location
+   +
+Scalable Mobile Products
+```
 
-<div align="center">
+I'm continuously improving my skills in:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaEladawy&hide_border=true" width="60%" />
-
-</div>
+**Mobile Architecture • Performance • Real-Time Systems • Flutter • Production Engineering**
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="left">
+<p align="center">
 
-<a href="mailto:classcar200@gmail.com">
-<img src="https://img.shields.io/badge/Email-classcar200%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://github.com/osamaEladawy">
+    <img src="https://img.shields.io/badge/GitHub-osamaEladawy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Osama%20Eladawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/osama-eladawy">
+    <img src="https://img.shields.io/badge/LinkedIn-Osama%20Eladawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <strong>💙 Building clean, scalable and reliable mobile experiences with Flutter.</strong>
+</p>
 
-### 💙 Building clean and scalable mobile experiences with Flutter.
+<p align="center">
+  Flutter • Dart • Mobile Engineering • Clean Architecture • Real-Time Systems
+</p>
 
-**Flutter • Dart • Mobile Engineering • Clean Architecture**
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer" width="100%" />
+</p>
